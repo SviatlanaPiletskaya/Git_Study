@@ -4,3 +4,5 @@ Now it looks as though they're here to stay
 Oh, I believe in yesterday
 
 Some information
+
+This is info for new branch.
